@@ -10,6 +10,7 @@ The core features are:
 5. The index of all the video files is securely generated in a MySQL database which again can only be accessed by privileged users and can filter the videos on the basis of  date of recording.
 
 To install the dependencies and requirements use the command:
+(UNIX-users  replace 'pip' with 'pip3')
 pip install -r requirements.txt
 
 This project is not completely usable as it is still a bit buggy and is in alpha stage of testing. If any bugs encountered feel free to report  at the Issues section of the repository.
