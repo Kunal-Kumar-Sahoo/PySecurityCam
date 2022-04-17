@@ -14,8 +14,3 @@ To install the dependencies and requirements use the command:
 pip install -r requirements.txt
 
 This project is not completely usable as it is still a bit buggy and is in alpha stage of testing. If any bugs encountered feel free to report  at the Issues section of the repository.
-
-You can contact the creator at his Gmail handle:
-kunal.sahoo2003@gmail.com
-
-A tutorial on the development will soon be released on Youtube-platform at https://www.youtube.com/channel/UC5qkTGwtnm_cvaUf61OnT5Q so stay tuned !
